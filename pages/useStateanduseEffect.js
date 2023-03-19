@@ -1,4 +1,4 @@
-// Option 2: fetch products on the client side (in useEffect ), this one ensures the latest data is displayed
+// Option 2: fetch products on the client side (in useEffect ), this one ensures the latest data is displayed Index 2a
 
 import { getProducts } from "lib/products"
 import Head from "next/head"

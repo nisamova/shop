@@ -1,4 +1,4 @@
-/* Option 2: fetch products on the client side (in useEffect ), this one ensures the latest data is displayed
+/* Option 2: index 2b.js fetch products on the client side (in useEffect ), this one ensures the latest data is displayed, requures internal API route
 this one uses internal API, where the incoming API refactored to tailor smaller data (reduces the data size when created via api route) or more specific data.
 */
 
